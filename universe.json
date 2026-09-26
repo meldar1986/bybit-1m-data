@@ -1,0 +1,2487 @@
+{
+ "snapshot_utc": "2026-09-25",
+ "ranking_source": "CoinGecko /coins/markets market_cap_desc (current market cap at snapshot; ex-post selection)",
+ "seal_start_utc": "2026-06-01T00:00:00Z",
+ "coins": [
+  {
+   "symbol": "BTCUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 1,
+   "market_cap_usd": 1687210179450,
+   "coingecko_id": "bitcoin",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ETHUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 2,
+   "market_cap_usd": 328733332149,
+   "coingecko_id": "ethereum",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "BNBUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 4,
+   "market_cap_usd": 103197754993,
+   "coingecko_id": "binancecoin",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "XRPUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 5,
+   "market_cap_usd": 98909077286,
+   "coingecko_id": "ripple",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "SOLUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 7,
+   "market_cap_usd": 71651660272,
+   "coingecko_id": "solana",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "TRXUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 8,
+   "market_cap_usd": 32039046828,
+   "coingecko_id": "tron",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ZECUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 9,
+   "market_cap_usd": 26252122545,
+   "coingecko_id": "zcash",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "HYPEUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-12-05 12:55",
+   "market_cap_rank": 11,
+   "market_cap_usd": 20379726975,
+   "coingecko_id": "hyperliquid",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "DOGEUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 12,
+   "market_cap_usd": 15346990874,
+   "coingecko_id": "dogecoin",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "XMRUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 13,
+   "market_cap_usd": 10502732597,
+   "coingecko_id": "monero",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "LINKUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 14,
+   "market_cap_usd": 10393733319,
+   "coingecko_id": "chainlink",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ADAUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 17,
+   "market_cap_usd": 9595523293,
+   "coingecko_id": "cardano",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "XLMUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 20,
+   "market_cap_usd": 7698102610,
+   "coingecko_id": "stellar",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "BCHUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 21,
+   "market_cap_usd": 6843601123,
+   "coingecko_id": "bitcoin-cash",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "NEARUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 22,
+   "market_cap_usd": 6604327386,
+   "coingecko_id": "near",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "UNIUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 23,
+   "market_cap_usd": 5973101201,
+   "coingecko_id": "uniswap",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "LTCUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 24,
+   "market_cap_usd": 5517022287,
+   "coingecko_id": "litecoin",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "SUIUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 27,
+   "market_cap_usd": 4757319150,
+   "coingecko_id": "sui",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "AVAXUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 28,
+   "market_cap_usd": 4639950868,
+   "coingecko_id": "avalanche-2",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "HBARUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 31,
+   "market_cap_usd": 4141517048,
+   "coingecko_id": "hedera-hashgraph",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "TAOUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-01-30 10:30",
+   "market_cap_rank": 33,
+   "market_cap_usd": 3493566796,
+   "coingecko_id": "bittensor",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "SHIB1000USDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 35,
+   "market_cap_usd": 3466751527,
+   "coingecko_id": "shiba-inu",
+   "price_multiplier": 1000,
+   "has_funding": true
+  },
+  {
+   "symbol": "CROUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 36,
+   "market_cap_usd": 3276256475,
+   "coingecko_id": "crypto-com-chain",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "MUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-07-08 09:48",
+   "market_cap_rank": 39,
+   "market_cap_usd": 2717755686,
+   "coingecko_id": "memecore",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ONDOUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-01-23 09:59",
+   "market_cap_rank": 42,
+   "market_cap_usd": 2653398411,
+   "coingecko_id": "ondo-finance",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ENAUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-04-02 11:42",
+   "market_cap_rank": 41,
+   "market_cap_usd": 2649553404,
+   "coingecko_id": "ethena",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "AAVEUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 46,
+   "market_cap_usd": 2368079424,
+   "coingecko_id": "aave",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "MNTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 49,
+   "market_cap_usd": 2201775280,
+   "coingecko_id": "mantle",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "DOTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 50,
+   "market_cap_usd": 2032140729,
+   "coingecko_id": "polkadot",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "MORPHOUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-11-22 09:07",
+   "market_cap_rank": 53,
+   "market_cap_usd": 1923323493,
+   "coingecko_id": "morpho",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "1000PEPEUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 54,
+   "market_cap_usd": 1884614846,
+   "coingecko_id": "pepe",
+   "price_multiplier": 1000,
+   "has_funding": true
+  },
+  {
+   "symbol": "WLFIUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-08-23 10:40",
+   "market_cap_rank": 56,
+   "market_cap_usd": 1815115558,
+   "coingecko_id": "world-liberty-financial",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "SKYUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-08-11 08:45",
+   "market_cap_rank": 57,
+   "market_cap_usd": 1794073097,
+   "coingecko_id": "sky",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ICPUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 58,
+   "market_cap_usd": 1764748527,
+   "coingecko_id": "internet-computer",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "WLDUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 59,
+   "market_cap_usd": 1745467719,
+   "coingecko_id": "worldcoin-wld",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ARBUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 62,
+   "market_cap_usd": 1516147985,
+   "coingecko_id": "arbitrum",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ETCUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 63,
+   "market_cap_usd": 1497642412,
+   "coingecko_id": "ethereum-classic",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "VVVUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-01-28 04:47",
+   "market_cap_rank": 66,
+   "market_cap_usd": 1455075280,
+   "coingecko_id": "venice-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "QNTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 67,
+   "market_cap_usd": 1414380989,
+   "coingecko_id": "quant-network",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "POLUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-09-05 09:00",
+   "market_cap_rank": 72,
+   "market_cap_usd": 1216322499,
+   "coingecko_id": "polygon-ecosystem-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "KASUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 74,
+   "market_cap_usd": 1158941717,
+   "coingecko_id": "kaspa",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ALGOUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 77,
+   "market_cap_usd": 1046406917,
+   "coingecko_id": "algorand",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "RENDERUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-07-26 08:58",
+   "market_cap_rank": 80,
+   "market_cap_usd": 1001573212,
+   "coingecko_id": "render-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "JSTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 81,
+   "market_cap_usd": 986183970,
+   "coingecko_id": "just",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ATOMUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 83,
+   "market_cap_usd": 945617639,
+   "coingecko_id": "cosmos",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "CAKEUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 84,
+   "market_cap_usd": 884900403,
+   "coingecko_id": "pancakeswap-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "FILUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 86,
+   "market_cap_usd": 858623117,
+   "coingecko_id": "filecoin",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "AEROUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-07-15 09:42",
+   "market_cap_rank": 87,
+   "market_cap_usd": 825911376,
+   "coingecko_id": "aerodrome-finance",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "INJUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 88,
+   "market_cap_usd": 819947962,
+   "coingecko_id": "injective-protocol",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "DASHUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 89,
+   "market_cap_usd": 814264175,
+   "coingecko_id": "dash",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "VETUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 90,
+   "market_cap_usd": 813607625,
+   "coingecko_id": "vechain",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "APTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 91,
+   "market_cap_usd": 756342708,
+   "coingecko_id": "aptos",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ETHFIUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-03-18 14:59",
+   "market_cap_rank": 97,
+   "market_cap_usd": 689148371,
+   "coingecko_id": "ether-fi",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "PENGUUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-12-17 14:38",
+   "market_cap_rank": 98,
+   "market_cap_usd": 641797407,
+   "coingecko_id": "pudgy-penguins",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "FLRUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 99,
+   "market_cap_usd": 634581707,
+   "coingecko_id": "flare-networks",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "STXUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 100,
+   "market_cap_usd": 613397974,
+   "coingecko_id": "blockstack",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "XDCUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-02-10 09:58",
+   "market_cap_rank": 102,
+   "market_cap_usd": 606176345,
+   "coingecko_id": "xdce-crowd-sale",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "TRUMPUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-01-18 10:30",
+   "market_cap_rank": 103,
+   "market_cap_usd": 595428814,
+   "coingecko_id": "official-trump",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "PYTHUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 105,
+   "market_cap_usd": 568279157,
+   "coingecko_id": "pyth-network",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ZROUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-06-20 15:10",
+   "market_cap_rank": 106,
+   "market_cap_usd": 562438280,
+   "coingecko_id": "layerzero",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "CRVUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 110,
+   "market_cap_usd": 541672576,
+   "coingecko_id": "curve-dao-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "VIRTUALUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-11-01 09:39",
+   "market_cap_rank": 111,
+   "market_cap_usd": 514874064,
+   "coingecko_id": "virtual-protocol",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "XPLUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-08-22 11:10",
+   "market_cap_rank": 112,
+   "market_cap_usd": 508766801,
+   "coingecko_id": "plasma",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "SEIUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 116,
+   "market_cap_usd": 488460051,
+   "coingecko_id": "sei-network",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "TIAUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 117,
+   "market_cap_usd": 478184932,
+   "coingecko_id": "celestia",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "PENDLEUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 121,
+   "market_cap_usd": 442617704,
+   "coingecko_id": "pendle",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "BSVUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 125,
+   "market_cap_usd": 431873107,
+   "coingecko_id": "bitcoin-cash-sv",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "SPXUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-10-29 08:57",
+   "market_cap_rank": 126,
+   "market_cap_usd": 425079024,
+   "coingecko_id": "spx6900",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "LDOUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 129,
+   "market_cap_usd": 415234677,
+   "coingecko_id": "lido-dao",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "1000BTTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 133,
+   "market_cap_usd": 368429253,
+   "coingecko_id": "bittorrent",
+   "price_multiplier": 1000,
+   "has_funding": true
+  },
+  {
+   "symbol": "GRASSUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-10-17 09:55",
+   "market_cap_rank": 131,
+   "market_cap_usd": 368400434,
+   "coingecko_id": "grass",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "XTZUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 134,
+   "market_cap_usd": 362069313,
+   "coingecko_id": "tezos",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "OPUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 138,
+   "market_cap_usd": 330153839,
+   "coingecko_id": "optimism",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "SUNUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 136,
+   "market_cap_usd": 330122470,
+   "coingecko_id": "sun-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "1000BONKUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 142,
+   "market_cap_usd": 324821756,
+   "coingecko_id": "bonk",
+   "price_multiplier": 1000,
+   "has_funding": true
+  },
+  {
+   "symbol": "1000LUNCUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 148,
+   "market_cap_usd": 306091656,
+   "coingecko_id": "terra-luna",
+   "price_multiplier": 1000,
+   "has_funding": true
+  },
+  {
+   "symbol": "GRTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 149,
+   "market_cap_usd": 304587883,
+   "coingecko_id": "the-graph",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ARUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 152,
+   "market_cap_usd": 303004206,
+   "coingecko_id": "arweave",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ENSUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 153,
+   "market_cap_usd": 301957660,
+   "coingecko_id": "ethereum-name-service",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "STRKUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-02-20 14:40",
+   "market_cap_rank": 154,
+   "market_cap_usd": 298117077,
+   "coingecko_id": "starknet",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "JTOUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 155,
+   "market_cap_usd": 295811392,
+   "coingecko_id": "jito-governance-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "USELESSUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-07-10 11:23",
+   "market_cap_rank": 156,
+   "market_cap_usd": 292098024,
+   "coingecko_id": "useless-3",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "CFXUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 157,
+   "market_cap_usd": 291409587,
+   "coingecko_id": "conflux-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "1000FLOKIUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 159,
+   "market_cap_usd": 276374873,
+   "coingecko_id": "floki",
+   "price_multiplier": 1000,
+   "has_funding": true
+  },
+  {
+   "symbol": "BRUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-03-20 13:38",
+   "market_cap_rank": 160,
+   "market_cap_usd": 268938844,
+   "coingecko_id": "bedrock-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "TWTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 165,
+   "market_cap_usd": 250541384,
+   "coingecko_id": "trust-wallet-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "WIFUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-01-11 12:31",
+   "market_cap_rank": 166,
+   "market_cap_usd": 247115807,
+   "coingecko_id": "dogwifcoin",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "EIGENUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-08-07 07:55",
+   "market_cap_rank": 167,
+   "market_cap_usd": 244615579,
+   "coingecko_id": "eigenlayer",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "COMPUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 169,
+   "market_cap_usd": 239150365,
+   "coingecko_id": "compound-governance-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "IOTAUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 172,
+   "market_cap_usd": 234550734,
+   "coingecko_id": "iota",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "THETAUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 173,
+   "market_cap_usd": 233828329,
+   "coingecko_id": "theta-token",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "KMNOUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-10-09 10:02",
+   "market_cap_rank": 175,
+   "market_cap_usd": 231337919,
+   "coingecko_id": "kamino",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "JASMYUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 176,
+   "market_cap_usd": 228988820,
+   "coingecko_id": "jasmycoin",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "KAIAUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-11-01 09:32",
+   "market_cap_rank": 180,
+   "market_cap_usd": 221361931,
+   "coingecko_id": "kaia",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "ZBCNUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-04-17 11:49",
+   "market_cap_rank": 181,
+   "market_cap_usd": 219330629,
+   "coingecko_id": "zebec-network",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "RUNEUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 184,
+   "market_cap_usd": 212587512,
+   "coingecko_id": "thorchain",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "AXSUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 186,
+   "market_cap_usd": 209826416,
+   "coingecko_id": "axie-infinity",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "AKTUSDT",
+   "source": "top100",
+   "first_bar_utc": "2024-06-26 09:41",
+   "market_cap_rank": 190,
+   "market_cap_usd": 202866876,
+   "coingecko_id": "akash-network",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "BUSDT",
+   "source": "top100",
+   "first_bar_utc": "2025-05-23 06:24",
+   "market_cap_rank": 192,
+   "market_cap_usd": 199052421,
+   "coingecko_id": "build-on",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "XCNUSDT",
+   "source": "top100",
+   "first_bar_utc": "2023-12-31 23:01",
+   "market_cap_rank": 194,
+   "market_cap_usd": 195063500,
+   "coingecko_id": "chain-2",
+   "price_multiplier": 1,
+   "has_funding": true
+  },
+  {
+   "symbol": "10000000AIDOGEUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-03-05 10:54",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-04-28 02:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "1000000CHEEMSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-25 11:19",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-28 08:57",
+   "has_funding": false
+  },
+  {
+   "symbol": "1000000PEIPEIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-07-04 10:58",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-17 12:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "10000COQUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-03-12 10:10",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "10000ELONUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-02-10 10:05",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-06 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "10000LADYSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "10000QUBICUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-24 10:32",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-14 09:57",
+   "has_funding": false
+  },
+  {
+   "symbol": "10000WENUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-31 11:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-17 13:29",
+   "has_funding": false
+  },
+  {
+   "symbol": "10000WHYUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-10-04 10:45",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-09-03 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "1000APUUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-06-20 11:11",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-07-11 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "1000XUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-10-25 09:20",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-11 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "1CATUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-01-22 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "A8USDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-07-22 12:01",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-21 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "AERGOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "AI16ZUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-30 08:27",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-06 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "AIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-17 09:23",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-14 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "AKROUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-12-24 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ALEOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-09-19 09:18",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-01-24 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ALPACAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-04-30 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ALPHAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-15 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "ALUUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-01-14 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-06 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "AMBUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-02-23 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ATAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "AUDIOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-14 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "AVAILUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-07-23 15:18",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-26 09:28",
+   "has_funding": false
+  },
+  {
+   "symbol": "AVLUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-02-20 11:02",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-27 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "BADGERUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-25 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "BAKEUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 10:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "BALUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-07-29 09:02",
+   "has_funding": false
+  },
+  {
+   "symbol": "BLZUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-12-24 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "BNXUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-03-17 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "BONDUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-12-24 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "BSWUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-01 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "CEEKUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-10-10 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "CELRUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-21 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "CHESSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-09-02 09:34",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-30 08:48",
+   "has_funding": false
+  },
+  {
+   "symbol": "CLOUDUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-07-19 10:11",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-08 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "COMBOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-03-27 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "COOKUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-02 09:13",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-27 08:52",
+   "has_funding": false
+  },
+  {
+   "symbol": "COSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-05-09 10:32",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "CTKUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-22 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "CTSIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-19 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "DARUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-01-06 02:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "DEGENUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-04-01 14:39",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-14 09:57",
+   "has_funding": false
+  },
+  {
+   "symbol": "DENTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-06 08:51",
+   "has_funding": false
+  },
+  {
+   "symbol": "DGBUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-27 10:57",
+   "has_funding": false
+  },
+  {
+   "symbol": "DODOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-06 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "DOGSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-08-26 13:35",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-24 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "DOGUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-06-04 10:32",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-28 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "EOSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-05-21 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "EPTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-04-21 12:53",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-01-30 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ESUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-07-16 10:44",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "ETHWUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-21 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "FBUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-09-25 10:19",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-09-03 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "FIOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-09-26 08:25",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-30 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "FIREUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-05-09 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-03-18 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "FITFIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-11-05 09:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "FLMUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-01 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "FORTHUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-14 09:56",
+   "has_funding": false
+  },
+  {
+   "symbol": "FOXYUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-04-12 11:49",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-05-22 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "FTMUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-01-10 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "FTNUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-05-16 10:36",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-06-23 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "FUELUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-31 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "FUNUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-11-15 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "FWOGUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-12 09:49",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-01-24 08:53",
+   "has_funding": false
+  },
+  {
+   "symbol": "FXSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-01-02 08:56",
+   "has_funding": false
+  },
+  {
+   "symbol": "GFTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-12-02 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "GIGAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-12 09:47",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "GLMRUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "GMEUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-06-11 14:38",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-03-25 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "GNOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-05-14 12:15",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "GODSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:03",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "GTCUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-26 08:56",
+   "has_funding": false
+  },
+  {
+   "symbol": "GUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-07-25 10:37",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "HIFIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-30 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "HIGHUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "HIPPOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-14 09:54",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-16 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "HOOKUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-03 05:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "HOTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-15 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "HPOS10IUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-10-21 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-28 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "IDEXUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-27 10:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "IPUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-02-07 12:55",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "JOEUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-14 09:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "KDAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-24 13:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "KEYUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-01-22 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "KLAYUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-10-28 02:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "L3USDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-07-31 09:51",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-03 05:57",
+   "has_funding": false
+  },
+  {
+   "symbol": "LAIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-04-26 13:06",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-03-17 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "LEVERUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-07-01 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "LINAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-03-27 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "LISTAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-06-21 11:04",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-16 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "LOOKSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "LTOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-04-01 14:41",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-01-30 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "MAJORUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-19 06:55",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-21 14:28",
+   "has_funding": false
+  },
+  {
+   "symbol": "MANEKIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-06-26 09:55",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-04-28 02:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "MASAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-05-21 10:08",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-18 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "MBLUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-09-03 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "MBOXUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-19 09:37",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "MDTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-07-04 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "MKRUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-08-18 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "MLNUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-04-09 08:46",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "MOBILEUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-02-22 12:29",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-08-01 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "MVLUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-29 08:43",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-18 09:24",
+   "has_funding": false
+  },
+  {
+   "symbol": "MYRIAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "MYROUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-19 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-12-01 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "NEIROETHUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-08-15 09:59",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-09-09 10:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "NFPUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-09 06:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "NKNUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-01-29 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "NSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-20 09:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-27 10:55",
+   "has_funding": false
+  },
+  {
+   "symbol": "NTRNUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-03 05:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "OBTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-04-25 11:02",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-27 10:26",
+   "has_funding": false
+  },
+  {
+   "symbol": "OLUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-21 10:24",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "OMGUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-06-03 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "OMNIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-04-17 14:29",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-09-24 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "OMUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-03-18 11:01",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-20 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ONEUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-09 05:46",
+   "has_funding": false
+  },
+  {
+   "symbol": "ORBSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "OSMOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-05-30 10:37",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-21 14:12",
+   "has_funding": false
+  },
+  {
+   "symbol": "OXTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-14 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "PERPUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "PHBUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-01-29 08:56",
+   "has_funding": false
+  },
+  {
+   "symbol": "PONKEUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-06-07 10:41",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-09 05:55",
+   "has_funding": false
+  },
+  {
+   "symbol": "PRCLUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-07-17 10:06",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-12-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "PRIMEUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-09-30 08:56",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "PROMUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-22 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "PUMPBTCUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-06-03 04:47",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "PYRUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-10-07 09:07",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "QIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "QUICKUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-09-10 09:41",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-12-01 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "RADUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "RDNTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-30 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "REEFUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-01-22 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "RENUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-03-06 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "REQUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "REXUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-01-09 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-13 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "RIFUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-12-01 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ROAMUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-03-07 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "RONUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-02-20 11:33",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-01-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "RSS3USDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-26 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "SCAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-03-13 10:39",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-21 14:29",
+   "has_funding": false
+  },
+  {
+   "symbol": "SCRUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-10-10 07:55",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "SCUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "SDUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-14 09:54",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-06 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SENDUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-13 10:10",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-18 08:55",
+   "has_funding": false
+  },
+  {
+   "symbol": "SFPUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-09 05:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SILLYUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-01-30 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SKYAIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-05-13 10:35",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-06 08:39",
+   "has_funding": false
+  },
+  {
+   "symbol": "SLERFUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-03-18 12:59",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-02 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SLFUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-09-03 09:34",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-09-19 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SOLOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-26 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-17 13:29",
+   "has_funding": false
+  },
+  {
+   "symbol": "SOLVUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-01-17 10:37",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "SPECUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-05-27 08:52",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SPELLUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-09 05:50",
+   "has_funding": false
+  },
+  {
+   "symbol": "STMXUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-02-23 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "STPTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-05-17 06:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SUNDOGUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-08-26 09:02",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-26 08:57",
+   "has_funding": false
+  },
+  {
+   "symbol": "SWARMSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-01-06 09:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "SWEATUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SWELLUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-07 11:30",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-21 14:30",
+   "has_funding": false
+  },
+  {
+   "symbol": "SXPUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-03 05:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "SYNUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-08-20 10:25",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-08 08:53",
+   "has_funding": false
+  },
+  {
+   "symbol": "SYSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-08-20 10:25",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-03 05:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "TAIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-14 10:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-19 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "TOKENUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-21 14:14",
+   "has_funding": false
+  },
+  {
+   "symbol": "TOMIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-11-05 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "TONUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "TRUUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-04-30 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "TSTBSCUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-02-09 11:47",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "UNFIUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-11-04 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "UXLINKUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-07-19 10:18",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-09-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "VICUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-03-13 08:52",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-01-29 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "VOXELUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-08-21 11:24",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-30 08:57",
+   "has_funding": false
+  },
+  {
+   "symbol": "VRAUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-05-12 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "VRUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2025-01-16 10:03",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-17 12:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "VTHOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-02-19 10:41",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-10 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "XCHUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-05-27 09:02",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-03-19 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "XEMUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-10-06 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "XIONUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-05 10:44",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-05-31 23:59 or earlier (see qc.json)",
+   "has_funding": false
+  },
+  {
+   "symbol": "XNOUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-01-24 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "XRDUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-01 00:00",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-07-11 09:00",
+   "has_funding": false
+  },
+  {
+   "symbol": "ZENTUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-12-23 09:34",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-12-26 08:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ZEUSUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-04-09 04:59",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2026-02-06 08:58",
+   "has_funding": false
+  },
+  {
+   "symbol": "ZKFUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-01-17 09:24",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2024-11-15 09:59",
+   "has_funding": false
+  },
+  {
+   "symbol": "ZKJUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-06-17 11:21",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-06-18 15:30",
+   "has_funding": false
+  },
+  {
+   "symbol": "ZRCUSDT",
+   "source": "delisted",
+   "first_bar_utc": "2024-11-25 10:44",
+   "market_cap_rank": "delisted",
+   "last_public_bar_utc": "2025-11-21 08:50",
+   "has_funding": false
+  }
+ ]
+}
